@@ -1,11 +1,7 @@
 package com.vtxlab.project.bc_crypto_coingecko.config;
 
-import java.util.List;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Profile;
-import org.springframework.stereotype.Component;
-import com.vtxlab.project.bc_crypto_coingecko.service.CoingeckoService;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
